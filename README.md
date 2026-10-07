@@ -2,7 +2,7 @@
 
 Sitio web de un gimnasio ficticio llamado FitZone, creado como práctica integradora de la asignatura Programación Web.
 
-## 📋 Descripción
+## Descripción
 
 El sitio está compuesto por 5 vistas HTML enlazadas entre sí:
 
@@ -12,7 +12,7 @@ El sitio está compuesto por 5 vistas HTML enlazadas entre sí:
 - **Contacto** (`contacto.html`): formulario con validación HTML5.
 - **Iniciar sesión** (`login.html`): formulario de acceso.
 
-## 🛠️ Tecnologías usadas
+## Tecnologías usadas
 
 - **HTML5** (estructura semántica)
 - **CSS3** (Flexbox, Grid, transiciones, animaciones)
@@ -20,7 +20,7 @@ El sitio está compuesto por 5 vistas HTML enlazadas entre sí:
 - **SEO** básico (title, description)
 - **Modo claro/oscuro** con `prefers-color-scheme`
 
-## 👤 Autor
+## Autor
 
 **Yosbiel Alejandro Díaz Cala**  
 Estudiante de 3er Año de Ingeniería Informática  
